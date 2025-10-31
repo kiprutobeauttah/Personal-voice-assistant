@@ -1,5 +1,7 @@
 # Personal Voice Assistant
 
+<img src = "personal_voice_assistant.jpeg" width="100%" height="40%">
+
 A simple **personal voice assistant** for **Windows**, written in Python. This assistant listens for a wake word ("assistant" by default) and performs basic tasks such as telling the time/date, opening websites and applications, playing local music, performing web searches, and telling jokes.
 
 ## Features (v1)
