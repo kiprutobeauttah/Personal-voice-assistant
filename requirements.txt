@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+pyjokes
+pygame
+pipwin  # recommended for installing PyAudio on Windows
+
+# Note: Install PyAudio using pipwin:
+# pip install pipwin
+# pipwin install pyaudio
